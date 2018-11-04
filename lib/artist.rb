@@ -1,4 +1,4 @@
-# require "pry"
+require "pry"
 
 class Artist 
   
@@ -11,4 +11,4 @@ class Artist
   
 end 
 
-# pry.start 
+pry.start 
